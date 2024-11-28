@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "New Delhi,India",
   locationLink: "https://maps.app.goo.gl/79VnE6NE7u1J2iqa9",
   about:
-    "Dedicated MERN stack web developer with a strong foundation in Data Structures and Algorithms.",
+    "Dedicated Web Developer with a strong foundation in Data Structures and Algorithms.",
   summary:
     "Full-Stack Developer with expertise in React, Node.js, Express.js and MongoDB building robust and scalable web applications, with a strong focus on clean code, performance optimization, and user experience. Additionally, accomplished problem-solver with 500+ solved questions on LeetCode, demonstrating proficiency in algorithms, data structures, and logical problem-solving.  ",
   avatarUrl: "https://avatars.githubusercontent.com/u/110126076?v=4",
