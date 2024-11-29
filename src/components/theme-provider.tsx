@@ -12,7 +12,7 @@ export function ThemeProvider({ children, ...props }: ThemeProviderProps) {
 
 export function ThemeButton(): JSX.Element {
     const { setTheme } = useTheme();
-    const [currentTheme, setThemeState] = React.useState("light");
+    const [currentTheme, setThemeState] = React.useState("dark");
 
     const handleThemeChange = () => {
         const newTheme = currentTheme === "dark" ? "light" : "dark";
