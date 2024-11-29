@@ -194,7 +194,7 @@ export default function Page() {
       <CommandMenu
         links={[
           {
-            url: RESUME_DATA.resumeURL,
+            url: RESUME_DATA.resumeUrl,
             title: "Resume",
           },
           ...RESUME_DATA.contact.social.map((socialMediaLink) => ({
