@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "Full-Stack Developer with expertise in React, Node.js, Express.js and MongoDB building robust and scalable web applications, with a strong focus on clean code, performance optimization, and user experience. Additionally, accomplished problem-solver with 500+ solved questions on LeetCode, demonstrating proficiency in algorithms, data structures, and logical problem-solving.  ",
   avatarUrl: "https://avatars.githubusercontent.com/u/110126076?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  resumeUrl: "https://drive.google.com/file/d/1FeVg2BO-eYuKFtLirxU2lmipn4GFQHAG/view?usp=sharing",
   contact: {
     email: "yashwingahlawat@gmail.com",
     tel: "+91 7360090000",
@@ -45,14 +45,14 @@ export const RESUME_DATA = {
         icon: LinkedInIcon,
       },
       {
-        name: "X",
-        url: "https://x.com/YashwinGahlawat",
-        icon: XIcon,
-      },
-      {
         name: "LeetCode",
         url: "https://leetcode.com/u/yashwinn",
         icon: LeetcodeIcon,
+      },
+      {
+        name: "X",
+        url: "https://x.com/YashwinGahlawat",
+        icon: XIcon,
       },
     ],
   },
