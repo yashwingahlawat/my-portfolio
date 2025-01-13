@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "Full-Stack Developer with expertise in React, Node.js, Express.js and MongoDB building robust and scalable web applications, with a strong focus on clean code, performance optimization, and user experience. Additionally, accomplished problem-solver with 500+ solved questions on LeetCode, demonstrating proficiency in algorithms, data structures, and logical problem-solving.  ",
   avatarUrl: "https://avatars.githubusercontent.com/u/110126076?v=4",
-  resumeURL: "https://drive.google.com/file/d/1FeVg2BO-eYuKFtLirxU2lmipn4GFQHAG/view?usp=sharing",
+  resumeURL: "https://drive.google.com/file/d/19hUrpV3-bPWD-YLw2UeHGlcvr98HiVeG/view?usp=drive_link",
   contact: {
     email: "yashwingahlawat@gmail.com",
     tel: "+91 7360090000",
@@ -80,11 +80,13 @@ export const RESUME_DATA = {
   ],
   skills: [
     "JavaScript",
+    "TypeScript",
     "React.js",
     "Node.js",
     "Express.js",
     "MongoDB",
     "Socket.io",
+    "Git",
   ],
   projects: [
     {
@@ -104,20 +106,20 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Delhi-Metro",
+      title: "Codeflow",
       techStack: [
-        "HTML",
+        "React.js",
         "CSS",
-        "Javascript",
         "Node.js",
         "Express.js",
+        "Socket.io",
       ],
       description:
-        "Developed web application for Delhi Metro, incorporating Dijkstra’s Algorithm for optimal route and duration calculation.",
-      logo: EvercastLogo,
+        "Developed a Real-time collaborative Code editor and Compiler, leveraging WebSocket for instant synchronization across multiple clients.",
+      logo: EvercastLogo, 
       link: {
         label: "github.com",
-        href: "https://github.com/yashwingahlawat/delhi-metro",
+        href: "https://github.com/yashwingahlawat/codeflow",
       },
     },
     {
