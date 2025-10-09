@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "Full-Stack Developer with expertise in React, Node.js, Express.js and MongoDB building robust and scalable web applications, with a strong focus on clean code, performance optimization, and user experience. Additionally, accomplished problem-solver with 500+ solved questions on LeetCode, demonstrating proficiency in algorithms, data structures, and logical problem-solving.  ",
   avatarUrl: "https://avatars.githubusercontent.com/u/110126076?v=4",
-  resumeURL: "https://drive.google.com/file/d/19hUrpV3-bPWD-YLw2UeHGlcvr98HiVeG/view?usp=drive_link",
+  resumeURL: "https://drive.google.com/file/d/1ako2KrlmdcAO1PMFSeGXahrO-OS8YDv2/view",
   contact: {
     email: "yashwingahlawat@gmail.com",
     tel: "+91 7360090000",
